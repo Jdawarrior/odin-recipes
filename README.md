@@ -1,0 +1,1 @@
+I am not sure what the current project is as I am just following The Odin Project's lesson and they have yet to explain it. Thus far I have demonstrated skills in setting up git, cloning repositories, command line basics using bash, creating directories and files and commiting them to git, and practicing html implementation through copying directories to the browser.
